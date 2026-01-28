@@ -1,3 +1,4 @@
+知乎链接：https://zhuanlan.zhihu.com/p/1999886285305835642
 # RM_IMU_BMI088
 BMI088 IMU attitude estimate on RT-Thread + RoboMaster C-board   在 RT-Thread 下实现互补滤波与Madgwick姿态解算
 ## 效果演示
